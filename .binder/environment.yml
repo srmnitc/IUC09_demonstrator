@@ -1,0 +1,23 @@
+name: apt
+channels:
+  - conda-forge
+dependencies:
+  - python =3.9
+  - jupyterlab
+  - ipywidgets =7
+  - paraprobe =v0.3.1
+  - pyiron_base
+  - numpy =1.24.1
+  - matplotlib
+  - pandas
+  - h5py
+  - scikit-learn
+  - tqdm
+  - pyevtk
+  - pyyaml
+  - ipyvtklink
+  - pyvista
+  - panel
+  - jupyterlab-h5web
+  - compositionspace
+    

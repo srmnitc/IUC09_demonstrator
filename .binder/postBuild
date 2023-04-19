@@ -1,0 +1,4 @@
+# move pyiron config to home directory 
+mv binder/.pyiron .
+chmod u+x pyiron/resources/paraprobe-ranger/bin/run_paraprobe-ranger_1.0.3_mpi.sh
+chmod u+x pyiron/resources/paraprobe-ranger/bin/run_paraprobe-ranger_1.0.3.sh
